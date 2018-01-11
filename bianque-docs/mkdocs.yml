@@ -1,9 +1,18 @@
 site_name: 扁鹊项目文档
 pages:
-- 扁鹊 : index.md
-- 应用 : 
-    - 扁鹊 : bianque.md
-    - 扁鹊client : bianque_client.md
+- 简介 : index.md
+- 应用模块 : 
+    - aliyun : aliyun.md
+    - report : report.md
+    - query  : query.md
+    - check  : check.md
+
+
+
+
+
+
+
 
 
 
