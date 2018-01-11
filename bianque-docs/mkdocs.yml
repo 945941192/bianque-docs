@@ -3,9 +3,9 @@ pages:
 - 简介 : index.md
 - 应用模块 : 
     - aliyun : aliyun.md
-    - report : report.md
-    - query  : query.md
-    - check  : check.md
+#    - report : report.md
+#    - query  : query.md
+#    - check  : check.md
 
 
 
